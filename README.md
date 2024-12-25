@@ -1,9 +1,9 @@
-# Behavioral-Analysis-and-Fraud-Detection-for-Credit-Card-Users
+# Behavioral-Analysis-and-Fraud-Detection-for-Credit-Card-Users 
 ML-Driven Behavioral Analysis and Fraud Detection for Credit Card Users: A Comprehensive Approach to Customer Segmentation and Sentiment Optimization
   
 
 ## Overview  
-This is a machine learning-based framework designed to optimize the end-to-end transaction journey for credit card users. By analyzing transaction data, detecting fraudulent patterns, and conducting sentiment analysis on customer feedback, it provides actionable insights for enhancing customer satisfaction and improving security.  
+This is a machine learning-based framework that is designed to optimize the end-to-end transaction journey for credit card users. By analyzing transaction data, detecting fraudulent patterns, and conducting sentiment analysis on customer feedback, it provides actionable insights for enhancing customer satisfaction and improving security.  
 
 ---
 
